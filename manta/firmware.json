@@ -5,7 +5,7 @@
       "releases": [
         {
           "version": "3.0.1",
-          "url": "https://github.com/PolygonEv/charger-firmware/blob/main/manta/3.0.1.bin"
+          "url": "https://raw.githubusercontent.com/PolygonEv/charger-firmware/main/manta/3.0.1.bin"
         }
       ]
     }
