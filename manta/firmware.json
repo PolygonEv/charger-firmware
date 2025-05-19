@@ -1,11 +1,20 @@
 {
   "versions": {
-    "3": {
-      "latest": "3.0.1",
+    "2": {
+      "latest": "02.00.001",
       "releases": [
         {
-          "version": "3.0.1",
-          "url": "https://raw.githubusercontent.com/PolygonEv/charger-firmware/main/manta/3.0.1.bin"
+          "version": "02.00.001",
+          "url": "https://raw.githubusercontent.com/PolygonEv/charger-firmware/main/manta/02.00.001.bin"
+        }
+      ]
+    },
+    "3": {
+      "latest": "03.00.001",
+      "releases": [
+        {
+          "version": "03.00.001",
+          "url": "https://raw.githubusercontent.com/PolygonEv/charger-firmware/main/manta/03.00.001.bin"
         }
       ]
     }
